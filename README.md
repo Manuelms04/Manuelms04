@@ -8,5 +8,5 @@
   - 📫 How to reach me manuelmorenososa04@gmail.com
 
 # Connect me with: 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg)](https://www.linkedin.com/manuelms04)
+[![LinkedIn]([https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg](https://es.vecteezy.com/png/18930480-logotipo-de-linkedin-png-icono-de-linkedin-png-transparente))](https://www.linkedin.com/manuelms04)
 
