@@ -10,7 +10,7 @@
 ### **Connect me with:**
 
 <a href="https://www.linkedin.com/in/manuel-moreno-sosa-46a2b0334/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" height="50"/>
 </a>
 
 <!-- ### **Tools and Skills:** 
