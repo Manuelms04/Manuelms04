@@ -19,23 +19,24 @@
 
  -->
 
+# **Hi, I'm Manuel Moreno Sosa 👋**
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <h2></h2>
-    <p>### **💬 About me...**
-  - 🙋‍♂️ A passionate Network and System Administrator
-  - 🌱 I am currently learning network system administration skills
-  - 💻 All of my projects are available at [GitHub Profile](https://github.com/Manuelms04)
-  - 📫 How to reach me manuelmorenososa04@gmail.com
+    <h2>💬 About me...</h2>
+    <ul>
+      <li>🙋‍♂️ A passionate Network and System Administrator</li>
+      <li>🌱 I am currently learning network system administration skills</li>
+      <li>💻 All of my projects are available at <a href="https://github.com/Manuelms04">GitHub Profile</a></li>
+      <li>📫 How to reach me: manuelmorenososa04@gmail.com</li>
+    </ul>
 
-### **Connect me with:**
-
-<a href="https://www.linkedin.com/in/manuel-moreno-sosa-46a2b0334/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="45" height="45"/>
-</a>
-</p>
-    <p></p>
+    <h3>Connect me with:</h3>
+    <a href="https://www.linkedin.com/in/manuel-moreno-sosa-46a2b0334/">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="45" height="45"/>
+    </a>
   </div>
-  <img src="administrator.gif" alt="Mi GIF" style="float: right; width: 200px;"/>
+
+  <!-- Imagen GIF alineada a la derecha -->
+  <img src="administrator.gif" width="600" height="400" style="float: right; margin-left: 20px;"/>
 </div>
