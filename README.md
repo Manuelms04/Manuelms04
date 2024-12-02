@@ -1,5 +1,5 @@
 ## Hi, I'm Manuel Moreno Sosa 👋
-[administrator.gif](administrator.git)
+(administrator.git)
 
 <!--
 - 🙋‍♂️ A passionate Network and System Administrator from Spain
