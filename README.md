@@ -1,6 +1,5 @@
 ## Hi, I'm Manuel Moreno Sosa 👋
-![administrator](administrator.gif)
-<img src="administrator.gif" width="500" height="300" />
+<img src="administrator.gif" width="600" height="400" />
 
 
 - 🙋‍♂️ A passionate Network and System Administrator from Spain
