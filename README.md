@@ -1,10 +1,8 @@
 ## Hi, I'm Manuel Moreno Sosa 👋
+[administrator.gif](administrator.git)
 
 <!--
-- 🙋‍♂️ A passionate Network and System Administrator from Spain 🇪🇸
+- 🙋‍♂️ A passionate Network and System Administrator from Spain
 - 🌱 I am currently learning network system administration skills
-- 💬 Ask me about ...
-- 📫 How to reach me [manuelmorenososa04@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me manuelmorenososa04@gmail.com
 -->
