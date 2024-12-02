@@ -8,7 +8,7 @@
   - 📫 How to reach me manuelmorenososa04@gmail.com
 
 # Connect me with: 
-Connect with me: [in](https://www.linkedin.com/in/manuelms04)
+Connect with me: [in](https://www.linkedin.com/in/manuel-moreno-sosa-46a2b0334/)
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg)](https://www.linkedin.com/in/manuelms04)
 
 
