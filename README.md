@@ -9,7 +9,7 @@
 
 # Connect me with: 
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/manuel-moreno-sosa-46a2b0334/)
+[![LinkedIn](<a href="https://www.flaticon.es/iconos-gratis/linkedin" title="linkedin iconos">Linkedin iconos creados por Freepik - Flaticon</a>)](https://www.linkedin.com/in/manuel-moreno-sosa-46a2b0334/)
 
 
 
