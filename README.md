@@ -9,7 +9,7 @@
 
 # Connect me with: 
 Connect with me: [in](https://www.linkedin.com/in/manuel-moreno-sosa-46a2b0334/)
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg)](https://www.linkedin.com/in/manuelms04)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/manuel-moreno-sosa-46a2b0334/)
 
 
 
