@@ -30,7 +30,6 @@
       <li>💻 All of my projects are available at <a href="https://github.com/Manuelms04">GitHub Profile</a></li>
       <li>📫 How to reach me: manuelmorenososa04@gmail.com</li>
     </ul>
-
     <h3>Connect with me:</h3>
     <a href="https://www.linkedin.com/in/manuel-moreno-sosa-46a2b0334/">
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="45" height="45"/>
