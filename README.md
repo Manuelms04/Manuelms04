@@ -7,13 +7,13 @@
 
 <br>
 
-## **💬 About me...**
+ **💬 About me...**
   - 🙋‍♂️ A passionate Network and System Administrator
   - 🌱 I'm currently learning network system administration skills
   - 💻 All of my projects are available at [GitHub Profile](https://github.com/Manuelms04)
   - 📫 How to reach me manuelmorenososa04@gmail.com
 
-## **Connect me with:**
+ **Connect me with:**
 
 <a href="https://www.linkedin.com/in/manuel-moreno-sosa-46a2b0334/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="45" height="45"/>
