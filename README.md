@@ -22,7 +22,7 @@
   GNU nano 7.2                               README.md                                        
 <h1 align="center">Hi, I'm Manuel Moreno Sosa 👋</h1>
 <p align="left">
-  <img src="adminitrator.gif" alt="image" width="425" align="right">
+  <img src="administrator.gif" alt="image" width="425" align="right">
 </p>
 
 <br>
