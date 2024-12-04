@@ -6,7 +6,6 @@
 </p>
 
 <br>
-
 ### **💬 About me...**
   - 🙋‍♂️ A passionate Network and System Administrator
   - 🌱 I'm currently learning network system administration skills
