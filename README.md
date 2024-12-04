@@ -9,7 +9,7 @@
 
  **💬 About me...**
   - 🙋‍♂️ A passionate Network and System Administrator
-  - 🌱 I'm currently learning network system administration skills
+  - 🌱 I'm currently learning Network System Administration skills
   - 💻 All of my projects are available at [GitHub Profile](https://github.com/Manuelms04)
   - 📫 How to reach me manuelmorenososa04@gmail.com
 
