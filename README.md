@@ -48,9 +48,6 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="oracle" width="40" height="40"/> </a> 
 
-<a href="https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-devops#:~:text=Definici%C3%B3n%20de%20DevOps,los%20clientes%20de%20forma%20constante." target="_blank" rel="noreferrer">
-<img src="/img/devops.png" alt="devops" width="70" height="40"/> </a> 
-
 
 
 <!--
