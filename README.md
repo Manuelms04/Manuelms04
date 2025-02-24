@@ -48,6 +48,8 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="oracle" width="40" height="40"/> </a> 
 
+<a href="https://www.redhat.com/en/ansible-collaborative" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ansible.svg" alt="aws" width="40" height="40"/> </a> 
 
 
 <!--
