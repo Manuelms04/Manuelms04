@@ -59,7 +59,6 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" alt="aws" width="40" height="40"/> </a> 
 
-https://aws.amazon.com
 
 <a href="" target="_blank" rel="noreferrer">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" alt="aws" width="40" height="40"/> </a> 
