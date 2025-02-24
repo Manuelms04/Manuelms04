@@ -50,9 +50,6 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ansible.svg" alt="aws" width="40" height="40"/> </a> 
 
 
-<a href="" target="_blank" rel="noreferrer">
-<img src="" alt="aws" width="40" height="40"/> </a> 
-
 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" alt="aws" width="40" height="40"/> </a> 
