@@ -39,8 +39,6 @@
 <a href="https://markdown.es/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="markdown" width="40" height="40"/> </a>
 
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="git hub" width="40" height="40"/> </a> 
 
 <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="cisco" width="60" height="35"/> </a> 
