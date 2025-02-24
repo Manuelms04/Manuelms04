@@ -28,7 +28,7 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bash-Dark.svg" alt="linux" width="40" height="40"/> </a> 
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" alt="linux" width="40" height="40"/> </a> 
 
 <a href="https://www.proxmox.com/" target="_blank" rel="noreferrer">
 <img src="https://2fasvg.github.io/assets/img/logo/proxmox.com/proxmox.com.svg" alt="proxmox" width="40" height="40"/> </a>
