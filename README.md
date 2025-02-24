@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Manuel Moreno Sosa 👋</h1>
 <p align="left">
-  <img src="/img/administrator.gif" alt="image" width="450" align="right">
+  <img src="/img/administrator.gif" alt="image" width="425" align="right">
 </p>
 
 <br>
