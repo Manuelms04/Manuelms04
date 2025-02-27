@@ -53,5 +53,5 @@
 
 ---
 
- 🚀 *Thank you for visiting me! Do not hesitate to contact me.* ;) 
+ > *Thank you for visiting me! Do not hesitate to contact me.* 🚀
  
