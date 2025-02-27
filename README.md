@@ -15,7 +15,7 @@
 ###  *Connect with me:* 
 
 <a href="https://www.linkedin.com/in/manuel-moreno-sosa-46a2b0334/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" width="45" height="45"/>
 </a>
 
 
