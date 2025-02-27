@@ -53,4 +53,4 @@
 
 ---
 
-🔹 *Thanks for visiting! Feel free to connect with me.* 🚀
+- *Thanks for visiting! Feel free to connect with me.* 🚀
