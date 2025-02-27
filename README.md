@@ -30,37 +30,52 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" alt="linux" width="40" height="40"/> </a> 
 
-<a href="https://www.proxmox.com/" target="_blank" rel="noreferrer">
-<img src="https://2fasvg.github.io/assets/img/logo/proxmox.com/proxmox.com.svg" alt="proxmox" width="40" height="40"/> </a>
-
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="git" width="40" height="40"/> </a> 
 
 <a href="https://markdown.es/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="markdown" width="40" height="40"/> </a>
-
-
-<a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="cisco" width="60" height="35"/> </a> 
-
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="oracle" width="40" height="40"/> </a> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Markdown-Dark.svg" alt="markdown" width="40" height="40"/> </a>
 
 <a href="https://www.redhat.com/en/ansible-collaborative" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ansible.svg" alt="aws" width="40" height="40"/> </a> 
 
-
-
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" alt="aws" width="40" height="40"/> </a> 
 
-
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" alt="aws" width="40" height="40"/> </a> 
-
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" alt="docker" width="40" height="40"/> </a> 
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="aws" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="python" width="40" height="40"/> </a> 
+
+******************************************************************************************************************************************************************************************************************************************
+
+
+<a href="https://www.debian.org/" target="_blank" rel="noreferrer">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Debian-Dark.svg" alt="debian" width="40" height="40"/> </a> 
+
+
+<a href="https://grafana.co" target="_blank" rel="noreferrer">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Grafana-Dark.svg" alt="grafana" width="40" height="40"/> </a> 
+
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Prometheus.svg" alt="prometheus" width="40" height="40"/> </a> 
+
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" alt="sql" width="40" height="40"/> </a> 
+
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40"/> </a> 
+
+
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kubernetes.svg" alt="kubernetes" width="40" height="40"/> </a> 
+
+
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" alt="github" width="40" height="40"/> </a> 
 
 
 
