@@ -8,7 +8,7 @@
 ### *💬 About me...*
 - 🙋‍♂️ Passionate **Network and System Administrator** with a strong focus on DevOps.
 - 🌱 Currently learning advanced **Network System Administration** skills.
-- 💻 Check out my projects: [GitHub Profile](https://github.com/Manuelms04).
+- 💻 Check out my projects: [GitHub Profile](https://github.com/Manuelms04?tab=repositories).
 - 📫 Reach me at **manuelmorenososa04@gmail.com**.
 
 
